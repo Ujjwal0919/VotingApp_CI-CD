@@ -1,1 +1,1 @@
-# VotingApp CI-CD Pipleine with Azure Devops
+# VotingApp CI-CD Pipeline with Azure DevOps
