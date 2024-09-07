@@ -182,6 +182,9 @@ This setup provides a fully automated CI/CD pipeline for a multi-microservice Do
 
 ### Project Demonstration
 
+[![Watch the video](https://img.youtube.com/vi/dPZ3eMxnsrY/0.jpg)](https://www.youtube.com/watch?v=dPZ3eMxnsrY)
+
+
 ### References
 - [Azure DevOps Documentation](https://docs.microsoft.com/en-us/azure/devops/)
 - [Argo CD Documentation](https://argo-cd.readthedocs.io/)
